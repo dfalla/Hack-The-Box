@@ -60,4 +60,14 @@ El usuario robert pertenece al grupo bugtracker. Veamos qué ficheros podemos ej
 
 ### Escalar privilegios
 
+al ejecutar el binario:
+
+![alt text](image-14.png)
+
+entonces hice lo siguiente
+
+el archivo cat contiene lo siguiente:
+
+/bin/sh
+
 ![alt text](image-13.png)
